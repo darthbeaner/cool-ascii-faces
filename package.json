@@ -1,5 +1,5 @@
 {
-  "name": "cool-ascii-faces",
+  "name": "bencool-ascii-faces",
   "version": "1.3.3",
   "description": "get some cool ascii faces ヽ༼ຈل͜ຈ༽ﾉ",
   "main": "index.js",
@@ -13,12 +13,12 @@
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxogden/cool-ascii-faces.git"
+    "url": "https://github.com/darthbeaner/cool-ascii-faces.git"
   },
   "bugs": {
-    "url": "https://github.com/maxogden/cool-ascii-faces/issues"
+    "url": "https://github.com/darthbeaner/cool-ascii-faces/issues"
   },
-  "homepage": "https://github.com/maxogden/cool-ascii-faces",
+  "homepage": "https://github.com/darthbeaner/cool-ascii-faces",
   "dependencies": {
     "stream-spigot": "~3.0.3"
   }
